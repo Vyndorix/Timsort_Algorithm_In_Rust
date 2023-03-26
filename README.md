@@ -4,7 +4,7 @@ Timsort is explained here: https://en.wikipedia.org/wiki/Timsort
 But here is a small explanation of Timsort:
 
 
-                                                                   Timsort
+                                                            Timsort
                                                                    
 Timsort is a hybrid, stable sorting algorithm, derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data. It 
 
